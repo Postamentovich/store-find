@@ -37,7 +37,6 @@ function getNearestStore(items, userPoint) {
 }
 
 function findInRadius(point, radius) {
-  console.log('radius', radius);
   if (!radius) return getNearestStore(stores, point);
   const circle = turf.circle(turf.getCoord(point), radius);
   const items = stores.filter((item) => {
