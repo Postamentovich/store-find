@@ -1,0 +1,10 @@
+{
+    "name": "Nearest store",
+    "description": "Find nearest store by user location",
+    "env": {
+        "GOOGLE_SHEET_URL": {
+            "description": "Google Sheet Data Url",
+            "value": "https://docs.google.com/spreadsheets/d/1rhWzBF3dyDQU5avqz0APJqPUBuJNYJ7Z8lgI_A2tiKE/edit?usp=sharing"
+        }
+    }
+}
