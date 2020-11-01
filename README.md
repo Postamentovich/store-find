@@ -62,7 +62,7 @@ IMPORTANT! DO NOT CHANGE COLUMN `Latitude` and `longitude` title, this is will b
 
 ### <a name="api">API</a>
 
-Endpoints:
+Endpoint:
 
 GET - `/api/store?lat="LATITUDE"&lng="LONGITUDE"`
 
