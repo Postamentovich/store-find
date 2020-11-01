@@ -1,4 +1,4 @@
-## Find neares store
+## Find nearest store
 
 ## https://find-nearest-store.herokuapp.com/api/store
 
